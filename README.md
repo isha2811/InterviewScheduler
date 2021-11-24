@@ -7,3 +7,5 @@ On our editing page When we click the edit button it connects to the update.php 
 ![s2](https://user-images.githubusercontent.com/67660170/143289840-8d2c6b42-bb2a-4234-86c0-192fc20a7492.png)
 
 ![s3](https://user-images.githubusercontent.com/67660170/143290014-6ae0ead8-535d-4f45-8f5c-bda0a9f7bb73.png)
+
+![s4](https://user-images.githubusercontent.com/67660170/143290194-2f168581-875f-4ee8-884c-7c51417b3d67.png)
